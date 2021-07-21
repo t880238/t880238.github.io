@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body {
   font-size: .875rem;
 }
@@ -151,8 +150,8 @@ p {
   text-decoration: none;
   background-color: #f4f4f4;
   box-shadow: 0 0 10px rgb(0 0 0 / 20%);
+}
 
-=======
 body {
   font-size: .875rem;
 }
@@ -261,7 +260,7 @@ body {
 
 .image img {
   display: block;
-	width: 300;
+	width: 100%;
 	height: 200;
   transition: 0.2s;
 }
@@ -292,8 +291,7 @@ p {
 	flex-wrap: wrap;
   margin: 50px auto;
   width: 95%;
-	list-style: none;
-  
+	list-style: none;  
 }
 
 .lia{
@@ -302,6 +300,10 @@ p {
     text-decoration: none;
     background-color: #f4f4f4;
     box-shadow: 0 0 10px rgb(0 0 0 / 20%);
-    width: 70%;
->>>>>>> a7460d792cfd5977ebc1e65be88fe9a999e182f8
+}
+
+.gridspace{
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
 }
