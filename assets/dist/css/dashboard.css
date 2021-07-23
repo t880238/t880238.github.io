@@ -151,7 +151,7 @@ p {
   color: #111;
   text-decoration: none;
   background-color: #f4f4f4;
-  box-shadow: 0 0 10px rgb(0 0 0 / 20%);
+  box-shadow: 2px 2px 5px rgb(0 0 0 / 20%);
 }
 
 .gridspace {
@@ -171,3 +171,4 @@ p {
 .light {
   background-color: #ffffff !important;
 }
+
