@@ -117,7 +117,7 @@ body {
   height: 200;
   transition: 0.2s;
   object-fit: cover;
-  object-position: top;
+  object-position: center;
 }
 
 a:hover .image img {
